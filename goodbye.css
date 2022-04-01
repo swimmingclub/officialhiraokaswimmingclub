@@ -1,0 +1,5 @@
+.btn{
+	padding: 2px 4px;       /*余白を設定*/
+    color: rgb(55, 0, 255);            /*文字の色*/
+    border-radius: 3px;     /*角を丸める*/
+}
